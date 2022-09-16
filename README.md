@@ -1,6 +1,6 @@
 # Webscraping2_Streamlit_Data_Display
-Repository for Data Collection and Display Project
-Webscraping and data analysis project using Beautiful Soup bs4, csv, Pandas, Streamlit, Jupyter notebook, Python 3
+Repository for Data Collection and Chart Analysis Display Project
+Webscraping and data analysis project using Beautiful Soup bs4, csv, Pandas, Streamlit, Jupyter notebook, Python3
 
 Project folder name: Caltrans_Plots_app
 Project files: 1. Caltrans_module.py
@@ -12,4 +12,7 @@ Project files: 1. Caltrans_module.py
                7. requirements.txt
                8. runtime.txt
 
-Project creator: Swati Mishra
+Project Result: 1. A webscraper module of the website to generate two csv files on campaign programs and contracts bids.
+                2. A charts, analysis and information display page with headers and footers using Streamlit and an emoji VS-Code extension. 
+
+Project by: Swati Mishra
