@@ -17,8 +17,9 @@ df1 = pd.DataFrame(data=page_info_dict, index=[1])
 container.write(df1)
 container.write("2 Charts for:")
 container.write(heading_list)
+container.write("Analysis Report: Shows that govt. is taking lot of good initiatives like statewide campaign programs for state and environment imrovement. They upload properly arranged list of contracts for contracts on development projects.")
 st.write(newparatext)
-
+st.write("You can see both Campaign program chart and Bid event chart with proper date, time, details and ids")
 # dropdown menu to browse and upload csv files using streamlit
 st.subheader("Choose one csv file to upload")
 
